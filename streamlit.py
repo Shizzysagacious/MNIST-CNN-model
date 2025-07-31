@@ -6,7 +6,7 @@ from PIL import Image
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Draw a Digit - MNIST Digit Prediction by GANESH", 
+st.set_page_config(page_title="Draw a Digit - MNIST Digit Prediction by   LEON", 
                    page_icon="✏",
                    layout="wide",
                    initial_sidebar_state="expanded"
@@ -117,7 +117,7 @@ st.markdown(
     """
     <hr style="margin-top:3rem;margin-bottom:1rem">
     <div class="footer" style="text-align:center; font-size:0.9rem; opacity:0.7;">
-        © 2025 Ganesh Rawat
+        © 2025
         <a href="https://github.com/Shizzysagacious" target="_blank"
            style="text-decoration:none; color:inherit;">
            GitHub
