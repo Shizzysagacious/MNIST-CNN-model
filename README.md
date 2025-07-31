@@ -1,1 +1,2 @@
-# MNIST-CNN-model
+#MNIST DIGIT PREDICTION.
+It uses pre processors 
